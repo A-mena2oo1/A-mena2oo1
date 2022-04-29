@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Amena Mostafa
 - 👀 I’m interested in Data science,Data analysis, Web development
 - 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me ...
+- 📫 How to reach me amenasaad83@gmail.com
 
 <!---
 A-mena2oo1/A-mena2oo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
