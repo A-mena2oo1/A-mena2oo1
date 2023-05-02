@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amena Mostafa
-- 👀 I’m interested in Data science,Data analysis, Web development
+- 👀 I’m interested in Data science,Data analysis, machine learning 
 - 🌱 I’m currently learning Data analysis
 - 📫 How to reach me amenasaad83@gmail.com
 
