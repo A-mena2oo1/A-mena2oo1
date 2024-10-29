@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amena Mostafa
-- 👀 I’m interested in Data science,Data analysis, machine learning 
-- 🌱 I’m currently learning Deep learning
+- 👋 Hi, I’m Amna Mostafa
+- 👀 I’m interested in different technologies dot net ,Data science,Data analysis, machine learning 
+
 - 📫 amenasaad83@gmail.com
 
 <!---
